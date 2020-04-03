@@ -1,0 +1,9 @@
+name: coronavirus-2020
+channels:
+- conda-forge
+dependencies:
+- numpy=1.17.4
+- matplotlib=3.1.1
+- pandas=0.25.3
+- ipywidgets=7.5.1
+- voila=0.1.21
