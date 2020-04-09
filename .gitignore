@@ -1,3 +1,4 @@
 .ipynb_checkpoints/
-
-figures/*.svg
+/.venv
+/cachedir/
+**/__pycache__/**
